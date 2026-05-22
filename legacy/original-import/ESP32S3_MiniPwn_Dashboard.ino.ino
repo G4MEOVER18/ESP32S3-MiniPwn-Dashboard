@@ -14,8 +14,8 @@
 #define ORANGE  0xFD20
 
 // ------------------ WLAN / Zeit ------------------
-const char* ssid     = "Galaxy S21 FE 5G 1c08";
-const char* password = "12345678";
+const char* ssid     = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 
 long timezoneOffset = 1;   // UTC+1
 byte daylight       = 1;   // Sommerzeit

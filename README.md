@@ -2,6 +2,8 @@
 
 # ESP32S3-MiniPwn-Dashboard
 
+[![CI](https://github.com/G4MEOVER18/ESP32S3-MiniPwn-Dashboard/actions/workflows/platformio-build.yml/badge.svg)](https://github.com/G4MEOVER18/ESP32S3-MiniPwn-Dashboard/actions/workflows/platformio-build.yml)
+
 **ESP32-S3 Status-Dashboard auf 1.47" ST7789-Display (Arduino_GFX)** — WLAN-Verbindung, Uhrzeit und Status auf einen Blick.
 
 [![Plattform](https://img.shields.io/badge/Plattform-ESP32--S3-blue?style=flat-square)](.)

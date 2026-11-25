@@ -1,6 +1,4 @@
+// VORLAGE - nach wifi_secrets.h kopieren und eigene WLAN-Daten eintragen.
 #pragma once
-
-// Kopiere diese Datei nach "wifi_secrets.h" und trage deine Daten ein.
-
-#define WIFI_SSID     "YOUR_WIFI_SSID"
-#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
+#define WIFI_SSID     "DEIN-WLAN-SSID"
+#define WIFI_PASSWORD "DEIN-WLAN-PASSWORT"
